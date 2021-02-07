@@ -1,0 +1,7 @@
+Hello Ivan!
+
+My name is Charles and I have been helping Georgie out with the ECHO Unity and C++ project that I believe you are working on. 
+
+If this makes sense to you please email me at charles@visitor.vision and I will send an invite to the repository for the project.
+
+Thanks!
